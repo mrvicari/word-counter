@@ -4,8 +4,6 @@
 #make the executable of the program in case not done already
 make
 
-#Replace **FileName** with te desired test file
-
 echo ""
 
 echo "*Testing WordCount*"
